@@ -1,4 +1,4 @@
- 👋 Hi there, I’m Safina-zainab 
+ 👋 Hi there, I’m Safina
  
  A passionate Front-end Developer from Bangalore, India
  
