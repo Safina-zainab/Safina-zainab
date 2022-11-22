@@ -1,5 +1,6 @@
-![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
+
 # 💫 About Me:
+<h3>Hi👋 I'm Safina, Passionate Frontend Developer </h3>
 I'm Currently Learning Vue Js 3 <br>Internship @GrowOn Cumin360 Technology
 
 
