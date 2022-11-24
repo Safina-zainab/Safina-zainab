@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 <h3>Hi👋 I'm Safina, Passionate Frontend Developer </h3>
-I'm Currently Learning Vue Js 3 <br>Internship @GrowOn Cumin360 Technology
+I'm Currently Learning Vue Js 3 <br>Internship @growOn Cumin360 Technology
 
 
 # 💻 Tech Stack:
